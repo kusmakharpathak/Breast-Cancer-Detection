@@ -1,0 +1,72 @@
+
+=======================================================================
+Sachina
+Date = 2020-February-05
+Time = 10:23:35 PM
+=======================================================================
+ReportYou are not are suffer from Breast Cancer till date
+Your Overall Report Are
+Test			Results		Ref. Range
+-------------------------------------------------------------------------
+Mean Radius		223.0		>17.85
+Mean Perimeter		102.6		>114.6
+Mean Area		761.3		>992.1
+Radius Worst		19.56		>19.82
+Perimeter Worst		125.9		>127.1
+
+=======================================================================
+
+
+=======================================================================
+Sachina
+Date = 2020-February-05
+Time = 10:26:10 PM
+=======================================================================
+ReportYou are not are suffer from Breast Cancer till date
+Your Overall Report Are
+Test			Results		Ref. Range
+-------------------------------------------------------------------------
+Mean Radius		223.0		>17.85
+Mean Perimeter		102.6		>114.6
+Mean Area		761.3		>992.1
+Radius Worst		19.56		>19.82
+Perimeter Worst		125.9		>127.1
+
+=======================================================================
+
+
+=======================================================================
+Sachina
+Date = 2020-February-06
+Time = 08:31:20 AM
+=======================================================================
+ReportYou are not are suffer from Breast Cancer till date
+Your Overall Report Are
+Test			Results		Ref. Range
+-------------------------------------------------------------------------
+Mean Radius		223.0		>17.85
+Mean Perimeter		102.6		>114.6
+Mean Area		761.3		>992.1
+Radius Worst		19.56		>19.82
+Perimeter Worst		125.9		>127.1
+
+=======================================================================
+
+
+=======================================================================
+Sachina
+Date = 2020-February-06
+Time = 09:16:40 AM
+=======================================================================
+ReportYou are not are suffer from Breast Cancer till date
+Your Overall Report Are
+Test			Results		Ref. Range
+-------------------------------------------------------------------------
+Mean Radius		223.0		>17.85
+Mean Perimeter		102.6		>114.6
+Mean Area		761.3		>992.1
+Radius Worst		19.56		>19.82
+Perimeter Worst		125.9		>127.1
+
+=======================================================================
+
