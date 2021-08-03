@@ -55,7 +55,7 @@ class Utils:
 
         server = smtplib.SMTP('smtp.gmail.com', 587)
         server.starttls()
-        server.login('kusmakharpathak.sunway@gmail.com', 'yahoo123@')
+        server.login('kusmakharpathak.sunway@gmail.com', '')
         server.sendmail("kusmakharpathak.sunway@gmail.com", email, message.as_string())
         server.quit()
 
